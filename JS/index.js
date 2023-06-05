@@ -5,8 +5,7 @@ import BookCollection from './modules/bookcollection.js';
 const bookCollection = new BookCollection();
 bookCollection.render();
 
-
-//display content as per navigation selection
+// display content as per navigation selection
 nav();
-//display time 
+// display time
 setInterval(doDate, 1000);
