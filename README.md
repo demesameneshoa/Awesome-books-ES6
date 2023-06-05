@@ -16,8 +16,8 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="https://demesameneshoa.github.io/Awesome-Books/">Live Demo</a>
+- <a href="https://demesameneshoa.github.io/Awesome-books-ES6/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,13 +76,13 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
 In order to run this project you need:
 
 - Visual Studio Code
 
-### Setup
+### Setup <a name="setup"></a>
 
 Clone this repository to your desired folder:
 
@@ -92,6 +92,30 @@ Example commands:
   cd Awesome-Books
   git clone git@github.com:demesameneshoa/Awesome-Books.git
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install <a name="install"></a>
+
+No installation Required
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage <a name="usage"></a>
+
+No usage applicable
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run Test <a name="run-tests"></a>
+
+No test required
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Deployment <a name="deployment"></a>
+
+Default Deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
